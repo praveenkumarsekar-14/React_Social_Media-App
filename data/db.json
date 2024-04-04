@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "April 04, 2024 10:59:38 PM",
+      "body": "Made a video about Tesla Q1 results and it's done\n"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd post",
+      "datetime": "April 03, 2024 9:20:35 AM",
+      "body": "Web3 global summit next week in London"
+    },
+    {
+      "id": 5,
+      "title": "Graduation Post",
+      "datetime": "April 03, 2024 9:22:21 AM",
+      "body": "Graduated from Sri Sairam Engineering College Chennai @2020 "
+    },
+    {
+      "id": 6,
+      "title": "Completed",
+      "datetime": "April 04, 2024 8:04:15 PM",
+      "body": "Successfully completed react course wow!"
+    },
+    {
+      "id": 7,
+      "title": "Awesome course",
+      "datetime": "April 04, 2024 8:05:12 PM",
+      "body": "I have learnt one of the bes tutorial for React. Thanks to Balachandra!"
+    },
+    {
+      "id": 8,
+      "title": "Subscribe",
+      "datetime": "April 04, 2024 11:00:22 PM",
+      "body": "Subscribe to balachandra and started learning reactjs course"
+    }
+  ]
+}
